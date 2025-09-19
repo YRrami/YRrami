@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YRrami
+- 👋 Hi, I’m @Bimbo
 - 👀 I’m interested in Computer and data science
-- 🌱 I’m currently learning Web designing and advanced JS
+- 🌱 I'm an Ai and software developer 
 - 📫 Get in touch with me on johnjohn444465@gmail.com
 
 <!---
